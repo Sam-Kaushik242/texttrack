@@ -2,7 +2,7 @@
 
 TextTrack is a responsive web application built with React.js and styled with Bootstrap. It allows users to input text and counts the number of words in the text. The application is designed to work seamlessly on both desktop and mobile devices.
 
-##Demo 
+## Demo 
 A live demo of the TextTrack (Word Counter) App is available at the following link[here](https://texttrack.netlify.app).
 
 ## Features
